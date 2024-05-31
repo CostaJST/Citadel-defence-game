@@ -1,0 +1,7 @@
+Module: Software Engineering Concepts(COMP3003)
+Student Name: Judy Shehani Thihara Costa
+Curtin ID: 20546364
+Date: 2023/09/11
+Submission: Assignment 1
+Content: Inside the Zipped folder, it contains assignment report and soure code folder.
+Comments: I couldn't complete the assignment tasks properly, So it won't work as it is suppose to be. 
